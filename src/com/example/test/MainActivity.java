@@ -22,6 +22,7 @@ public class MainActivity extends Activity {
 	private Button recordButton;
 	private Button playButton;
 
+	/*sashimi shine*/
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
